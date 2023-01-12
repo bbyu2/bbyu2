@@ -5,7 +5,7 @@
 
 <div align=center><h1>Career & Academy</h1></div>
 
-<h1> [ BARIM - 2020.03 ~2020.12 ] </h1>
+<h2> [ BARIM - 2020.03 ~2020.12 ] </h2>
 
 ## 1. Basics
 ### 📚 department : planning
