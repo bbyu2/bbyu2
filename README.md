@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBC00&height=250&section=header&text=Jihee%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-<div align=center><h1>Career & Academy</h1></div>
+<div align=center><h1> 🏃‍♀️ Career & Academy 🏃 </h1></div>
 
 <h2> [ BARIM - 2020.03 ~2020.12 ] </h2>
 
