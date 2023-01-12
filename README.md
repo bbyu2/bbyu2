@@ -1,7 +1,12 @@
-<a href="mailto:wlgml4102@gmail.com"><img src="https://img.shields.io/badge/wlgml4102@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<div align=center> <a href="mailto:wlgml4102@gmail.com"><img src="https://img.shields.io/badge/wlgml4102@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jihee-seo-790aa7261/"><img src="https://img.shields.io/badge/Jihee Seo-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFBC00&height=250&section=header&text=Jihee%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFBC00&height=250&section=header&text=Jihee%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </div>
+
+
+<div align=center> <h1> 💻 Certificate 💻 </h1>
+ 
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/84059211/212036187-303094f4-f8b1-4ae9-a7c4-90bf11a6fdef.png) </div>
 
 <div align=center><h1> 🏃‍♀️ Career & Academy 🏃 </h1></div>
 
@@ -83,6 +88,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 
-<div align=center><h1> 💻 Certificate 💻 </h1></div>
-![AWS_Associate](https://user-images.githubusercontent.com/84059211/212035334-708274d6-f2e9-4269-bf99-f9107e02ab7f.png)
 
