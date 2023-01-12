@@ -6,9 +6,9 @@
 <div align=center> <h1> 💻 Certificate 💻 </h1>
  
 ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/84059211/212036187-303094f4-f8b1-4ae9-a7c4-90bf11a6fdef.png) </div>
-</br>
+</br></br>
 
-<div align=center><h1> 🏃‍♀️ Career & Academy 🏃 </h1></div>
+<div align=center><h1> 🏃‍♀️ Career & Academy 🏃 </h1></div> 
 
 <div align=center> <h2>[ Barim Co., Ltd. - 2020.03 ~2020.12 ]<b/></div>
 
@@ -63,9 +63,8 @@
 
 ### Team Collabolation Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-</br></br>
 
- </br></br></br>
+</br></br></br>
 
 <div align=center> <h2> [ Multicampus Full-stack developer job camp - 2021.12 ~2022.06 ]</h2> </div>
 
