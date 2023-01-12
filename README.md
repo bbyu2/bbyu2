@@ -6,7 +6,8 @@
 <div align=center><h1>Career & Academy</h1></div>
 
 <h2> [ BARIM - 2020.03 ~2020.12 ] </h2>
-### 1. Basics 
+
+### 1. Basics
 #### department : planning
 
 ### 2. Stack
@@ -16,7 +17,7 @@
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white"><br/>
 
-<h3>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h3>
+<h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2>
 ### 1. CSP
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
