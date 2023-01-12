@@ -16,9 +16,9 @@
 <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2>
 
 ## 1. Project
-### Semi Project 
+### Semi Project - 🥇First place
 
-### Final Project 
+### Final Project - 🥈grand prize
 
 ## 2. Stack
 ### CSP
@@ -81,3 +81,6 @@
 
 ### Team Collabolation Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+
+
+<div align=center><h1> 🏆 Awards 🏆 </h1></div>
