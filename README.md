@@ -5,10 +5,10 @@
 
 <div align=center><h1>Career & Academy</h1></div>
 
-<h2> [ BARIM - 2020.03 ~2020.12 ] </h2>
+<h1> [ BARIM - 2020.03 ~2020.12 ] </h1>
 
-### 1. Basics
-#### 📚 department : planning
+## 1. Basics
+### 📚 department : planning
 
 ### 2. Stack
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
