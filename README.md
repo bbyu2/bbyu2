@@ -10,23 +10,24 @@
 
 <div align=center><h1> 🏃‍♀️ Career & Academy 🏃 </h1></div>
 
-<h2> [ Barim Co., Ltd. - 2020.03 ~2020.12 ] </h2>
+<div align=center> <h2>[ Barim Co., Ltd. - 2020.03 ~2020.12 ]<b/></div>
 
 ## 1. Basics
-### department : planning 
+### - department : planning 
 
 ## 2. Stack
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" > <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white">
-</br></br>
 
-<h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2>
+ </br></br></br>
+
+<div align=center> <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2> </div>
 
 ## 1. Project
-### Semi Project - 🥇First prize
-<b><a href="https://github.com/bbyu2/ABCbit">코인거래소 웹 사이트 ABCbit 3Tier구축</a></b>
+### - Semi Project(🥇First prize)
+### <b><a href="https://github.com/bbyu2/ABCbit">코인거래소 웹 사이트 ABCbit 3Tier구축</a></b>
 
-### Final Project - 🥈grand prize
-<b><a href="https://github.com/bbyu2/BTC_edu_final">코인거래소 웹 서비스 ABCbit 개발 및 인프라 운영</a></b>
+### - Final Project(🥈grand prize)
+### <b><a href="https://github.com/bbyu2/BTC_edu_final">코인거래소 웹 서비스 ABCbit 개발 및 인프라 운영</a></b>
 </br>
 
 ## 2. Stack
@@ -64,15 +65,17 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 </br></br>
 
-<h2> [ Multicampus Full-stack developer job camp - 2021.12 ~2022.06 ]</h2>
+ </br></br></br>
+
+<div align=center> <h2> [ Multicampus Full-stack developer job camp - 2021.12 ~2022.06 ]</h2> </div>
 
 ## 1. Project
 ### Team Project1 - 무장애 여행서비스 웹페이지 "Barrier Free"
 
 ### Team Project2 - 캠핑 정보 제공 웹페이지 "Mulcamping"
+</br>
 
 ## 2. Stack
-
 ### Language
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=java&logoColor=white"> 
 
