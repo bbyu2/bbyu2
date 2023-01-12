@@ -16,7 +16,7 @@
 <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2>
 
 ## 1. Project
-### Semi Project - 🥇First place
+### Semi Project - 🥇First prize
 
 ### Final Project - 🥈grand prize
 
