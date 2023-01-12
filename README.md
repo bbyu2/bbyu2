@@ -7,16 +7,18 @@
 <div align=center> <h1> 💻 Certificate 💻 </h1>
  
 ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/84059211/212036187-303094f4-f8b1-4ae9-a7c4-90bf11a6fdef.png) </div>
+</br>
 
 <div align=center><h1> 🏃‍♀️ Career & Academy 🏃 </h1></div>
 
 <h2> [ BARIM - 2020.03 ~2020.12 ] </h2>
 
 ## 1. Basics
-### 📚 department : planning
+### department : planning
 
 ## 2. Stack
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" > <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white"><br/>
+</br>
 
 <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2>
 
@@ -58,7 +60,7 @@
 
 ### Team Collabolation Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-
+</br>
 
 <h2> [ Multicampus Full-stack developer job camp - 2021.12 ~2022.06 ]</h2>
 
