@@ -87,6 +87,11 @@
 ### Framework
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 
-
 ### Team Collabolation Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbyu2&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbyu2&layout=compact&theme=tokyonight)
+ 
+![Profile views](https://gpvc.arturio.dev/bbyu2)  
