@@ -27,7 +27,7 @@
 ### <b><a href="https://github.com/bbyu2/ABCbit">코인거래소 웹 사이트 ABCbit 3Tier Architecture 구축</a></b>
 
 ### (🥈grand prize) Final team Project - based on AWS
-### <b><a href="https://github.com/bbyu2/BTC_edu_final">코인거래소 웹 서비스 ABCbit 개발 및 운영</a></b>
+### <b><a href="https://github.com/bbyu2/BTC_edu_final">ABCbit 코인 거래소 및 자동매매 서비스 구축</a></b>
 
 </br>
 
