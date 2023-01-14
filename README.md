@@ -69,9 +69,11 @@
 <div align=center> <h2> [ Multicampus Full-stack developer job camp - 2021.12 ~2022.06 ]</h2> </div>
 
 ## 1. Project
-### Team Project1 - 무장애 여행서비스 웹페이지 "Barrier Free"
+### Team Project1
+### <b><a href="https://github.com/bbyu2/barrier-free"> 무장애 여행서비스 웹페이지 "Barrier Free"</a></b>
+### Team Project2
+### <b><a href="https://github.com/bbyu2/Mulcamping">캠핑 정보 제공 웹페이지 "Mulcamping"</a></b>
 
-### Team Project2 - 캠핑 정보 제공 웹페이지 "Mulcamping"
 </br>
 
 ## 2. Stack
@@ -91,7 +93,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbyu2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbyu2&layout=compact&theme=tokyonight)
+![bbyu2's github stats](https://github-readme-stats.vercel.app/api?username=bbyu2&theme=slateorange&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbyu2&theme=slateorange&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
  
 ![Profile views](https://gpvc.arturio.dev/bbyu2)  
