@@ -24,10 +24,10 @@
 
 ## 1. Project
 ### (🥇First prize) Semi team Project - based on AWS
-### <b><a href="https://github.com/bbyu2/ABCbit">코인거래소 웹 사이트 ABCbit 3Tier Architecture 구축</a></b>
+### <b><a href="https://github.com/bbyu2/ABCbit">- 코인거래소 웹 사이트 ABCbit 3Tier Architecture 구축</a></b>
 
 ### (🥈grand prize) Final team Project - based on AWS
-### <b><a href="https://github.com/bbyu2/BTC_edu_final">ABCbit 코인 거래소 및 자동매매 서비스 구축</a></b>
+### <b><a href="https://github.com/bbyu2/BTC_edu_final">- ABCbit 코인 거래소 및 자동매매 서비스 구축</a></b>
 
 </br>
 
@@ -63,17 +63,17 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
 
 ### Team Collabolation Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/drawio-000000?style=for-the-badge&logo=drawio&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+ 
 </br></br></br>
 
 <div align=center> <h2> [ Multicampus Full-stack developer job camp - 2021.12 ~2022.06 ]</h2> </div>
 
 ## 1. Project
 ### Team Project1
-### <b><a href="https://github.com/bbyu2/barrier-free"> 무장애 여행서비스 웹페이지 "Barrier Free"</a></b>
+### <b><a href="https://github.com/bbyu2/barrier-free">- 무장애 여행서비스 웹페이지 "Barrier Free"</a></b>
 ### Team Project2
-### <b><a href="https://github.com/bbyu2/Mulcamping">캠핑 정보 제공 웹페이지 "Mulcamping"</a></b>
+### <b><a href="https://github.com/bbyu2/Mulcamping">- 캠핑 정보 제공 웹페이지 "Mulcamping"</a></b>
 
 </br>
 
