@@ -23,11 +23,12 @@
 <div align=center> <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2> </div>
 
 ## 1. Project
-### (🥇First prize) Semi team Project - 코인거래소 웹 사이트 ABCbit 3Tier 인프라 구축
-### <b><a href="https://github.com/bbyu2/ABCbit">코인거래소 웹 사이트 ABCbit 3Tier구축</a></b>
+### (🥇First prize) Semi team Project - based on AWS
+### <b><a href="https://github.com/bbyu2/ABCbit">코인거래소 웹 사이트 ABCbit 3Tier Architecture 구축</a></b>
 
-### (🥈grand prize) Final team Project - 코인거래소 웹 서비스 ABCbit 개발 및 운영
-### <b><a href="https://github.com/bbyu2/BTC_edu_final">Development</a></b>, <b><a href="https://github.com/Godbro0/BTC_edu_final_terraform">Infra</a></b>, <b><a href="https://github.com/Godbro0/final_CICD">CI/CD</a></b>
+### (🥈grand prize) Final team Project - based on AWS
+### <b><a href="https://github.com/bbyu2/BTC_edu_final">코인거래소 웹 서비스 ABCbit 개발 및 운영</a></b>
+
 </br>
 
 ## 2. Stack
