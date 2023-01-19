@@ -3,24 +3,22 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFBC00&height=250&section=header&text=Jihee%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </div>
 
-<div align=center> <h1> 💻 Certificate 💻 </h1>
+<div align=center> <h1> 🌏 Certificate 🌏 </h1>
  
 ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/84059211/212036187-303094f4-f8b1-4ae9-a7c4-90bf11a6fdef.png) </div>
 </br></br>
 
-<div align=center><h1> 🏃‍♀️ Career & Academy 🏃 </h1></div> 
+<div align=center><h1> 💻 Academy 💻 </h1></div> 
 
-<div align=center> <h2>[ Barim Co., Ltd. - 2020.03 ~2020.12 ]<b/></div>
+<div align=center> <h2>[ 1. BespinGlobal Techcenter Cloud engineer training course ]</h2> </div>
 
-## 1. Basics
-### - department : planning 
+## Basics
+### - Period
+#### 2022.05 ~ 2022.12
+### - Curriculum
+#### Cloud Basics, Network, Linux, Window server, DBA, Aamazon Web Service, Microsoft Azure, Google Cloud Platform, Naver Cloud Platform, Docker, Kubernetes, Terraform, Ansible, Git, Jenkins
 
-## 2. Stack
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" > <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white">
-
- </br></br></br>
-
-<div align=center> <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2> </div>
+</br>
 
 ## 1. Project
 ### (🥇First prize) Semi team Project - based on AWS
@@ -92,7 +90,20 @@
 
 ### Team Collabolation Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+ 
+</br></br></br>
 
+<div align=center><h1> 📂 career 📂 </h1></div> 
+
+<div align=center> <h2>[ Barim Co., Ltd. - 2020.03 ~2020.12 ]<b/></div>
+
+## 1. Basics
+### - department : planning 
+
+## 2. Stack
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" > <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white">
+
+ </br></br></br>
 
 ![bbyu2's github stats](https://github-readme-stats.vercel.app/api?username=bbyu2&theme=slateorange&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbyu2&theme=slateorange&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
  
