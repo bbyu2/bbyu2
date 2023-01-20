@@ -23,15 +23,13 @@
 
 ## Project
 ### (🥇First prize) Semi team Project - based on AWS
-```
-고가용성 및 부하분산을 위한 3Tier(WEB, WAS, DB) Architecture 구축 프로젝트
-```
+#### └ 고가용성 및 부하분산을 위한 3Tier(WEB, WAS, DB) Architecture 구축 프로젝트
 ### <b><a href="https://github.com/bbyu2/ABCbit">- 코인거래소 웹 사이트 ABCbit 3Tier Architecture 구축</a></b>
 
+<br/>
+
 ### (🥈grand prize) Final team Project - based on AWS
-```
-Git, Jenkins, ArgoCD등, 배포 자동화를 위한 DevOps 프로젝트
-```
+####  └ Git, Jenkins, ArgoCD등, 배포 자동화를 위한 DevOps 프로젝트
 ### <b><a href="https://github.com/bbyu2/BTC_edu_final">- ABCbit 코인 거래소 및 자동매매 서비스 구축</a></b>
 
 </br>
@@ -84,14 +82,10 @@ Git, Jenkins, ArgoCD등, 배포 자동화를 위한 DevOps 프로젝트
 
 ## Project
 ### Team Project1
-```
-Open API와 AI를 활용한, 모두가 편안한 여행을 즐길 수 있게 도움을 주는 무장애 여행 웹 프로젝트
-```
+#### └ Open API와 AI를 활용한, 모두가 편안한 여행을 즐길 수 있게 도움을 주는 무장애 여행 웹 프로젝트
 ### <b><a href="https://github.com/bbyu2/barrier-free">- 무장애 여행서비스 웹페이지 "Barrier Free"</a></b>
 ### Team Project2
-```
-Open API를 활용하여 보다 편리한 캠핑 장소 검색 및 커뮤니티 사이트를 제공해주는 웹 프로젝트
-```
+#### └ Open API를 활용하여 보다 편리한 캠핑 장소 검색 및 커뮤니티 사이트를 제공해주는 웹 프로젝트
 ### <b><a href="https://github.com/bbyu2/Mulcamping">- 캠핑 정보 제공 웹페이지 "Mulcamping"</a></b>
 
 </br>
