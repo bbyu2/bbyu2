@@ -29,7 +29,7 @@
 <br/>
 
 ### (🥈grand prize) Final team Project - based on AWS
-####  └ Git, Jenkins, ArgoCD등, 배포 자동화를 위한 DevOps 프로젝트
+####  └ Git, Jenkins, ArgoCD등 통합 및 배포 자동화를 구현한 DevOps 프로젝트
 ### <b><a href="https://github.com/bbyu2/BTC_edu_final">- ABCbit 코인 거래소 및 자동매매 서비스 구축</a></b>
 
 </br>
